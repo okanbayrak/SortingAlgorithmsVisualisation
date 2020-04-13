@@ -1,0 +1,47 @@
+#visualizer {
+    background-color: #ecfbfc;
+    border-style: solid;
+    border-color: #ecfbfc;
+    border-width: thick;
+    border-radius: 20px;
+}
+
+#main {
+    background-color: #116979;
+}
+
+.header {
+    margin: 20 auto;
+    text-align: center;
+    font-size: 30px;
+    border-style: solid;
+    border-color: #ecfbfc;
+    border-width: thick;
+    border-radius: 10px;
+    background-color: #ecfbfc;
+    width: 200px;
+}
+
+.data-container {
+    width: 1200px;
+    height: 850px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.block {
+    width: 15px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background-color: #237FD8;
+    transition: .1s;
+}
+
+.value-label {
+    position: absolute;
+    top: -24px;
+    width: 100%;
+    text-align: center;
+    font-size: 10px;
+}
