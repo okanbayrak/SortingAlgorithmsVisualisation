@@ -1,4 +1,3 @@
-<!DOCTYPE HTML>
-<head>
-  <link rel="import" href="BubbleSortVisualisation/index.html"/>
-</head>
+<body>
+  <iframe src="BubbleSortVisualisation/index.html"></iframe>
+</body>
